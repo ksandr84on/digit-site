@@ -85,8 +85,8 @@
 
  ***/
 :root {
-  --thm-font: "Teko", sans-serif;
-  --thm-b-font: "Rubik", sans-serif;
+  --thm-font: 'Source Sans Pro', sans-serif;
+  --thm-b-font: "Inter", sans-serif;
   --thm-base: #ffaa17;
   --thm-base-rgb: 255, 170, 23;
   --thm-black: #222429;
@@ -150,7 +150,7 @@ h6 {
 }
 
 h1 {
-  font-size: 140px;
+  font-size: 50px;
 }
 
 h2 {
@@ -769,7 +769,7 @@ img {
   position: relative;
   display: block;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 30px;
   font-weight: 400;
   text-transform: uppercase;
@@ -906,7 +906,7 @@ img {
   padding: 5px 0px;
   line-height: 24px;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 15px;
   color: #171b27;
   letter-spacing: 0.03em;
   text-align: left;
@@ -2683,7 +2683,7 @@ img.lazy-image.loaded {
 
 .banner-carousel .content-box h1 {
   display: block;
-  font-size: 100px;
+  font-size: 50px;
   line-height: 0.85em;
   color: #ffffff;
   font-weight: 600;
@@ -12664,7 +12664,7 @@ img.lazy-image.loaded {
 .mobile-nav__container li a {
   text-transform: uppercase;
   color: #9ca3a9;
-  font-size: 20px;
+  font-size: 15px;
   letter-spacing: 1px;
   line-height: 24px;
   font-weight: 500;
