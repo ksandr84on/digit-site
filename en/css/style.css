@@ -261,7 +261,7 @@ body.boxed-wrapper {
 
 .auto-container {
   position: static;
-  max-width: 1400px;
+  max-width: 1300px;
   padding: 0px 15px;
   margin: 0 auto;
 }

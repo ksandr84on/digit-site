@@ -261,7 +261,7 @@ body.boxed-wrapper {
 
 .auto-container {
   position: static;
-  max-width: 1400px;
+  max-width: 1300px;
   padding: 0px 15px;
   margin: 0 auto;
 }
@@ -3586,7 +3586,7 @@ img.lazy-image.loaded {
 .sec-title h2 {
   position: relative;
   display: block;
-  font-size: 70px;
+  font-size: 40px;
   line-height: 0.9em;
   text-transform: uppercase;
   color: var(--thm-black);
@@ -5610,7 +5610,7 @@ img.lazy-image.loaded {
 .parallax-section .content-box h2 {
   position: relative;
   display: block;
-  font-size: 70px;
+  font-size: 50px;
   line-height: 1em;
   text-transform: uppercase;
   color: #ffffff;
